@@ -5,12 +5,12 @@ Objekt
 - Bob omb       Tim -> påbörjad
 - träd          Vi får kolla på tillsammans
 - kanon         Tim -> klar -> Ej färdigmappad textur
-- chainchomp
-- Rullande kulor
+- chainchomp	Simon -> Behövs texturer
+- Rullande kulor Simon -> Behövs nog ingen texture så klar
 - Gombas
 - Skylt         Tim -> klar 1 -> Påbörjat mindre skylt med pil
 - Trä pelare    Tim -> Klar
-- Pengar
+- Pengar		Simon -> keff
 - Blommor
 - Staket        Tim -> Påbörjat, en keff model klar, får nog göra en till
 - Gallert
