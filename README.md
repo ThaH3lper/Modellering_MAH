@@ -3,21 +3,21 @@ School project
 
 Objekt
 - Bob omb       Tim -> påbörjad
-- träd          Tim
+- träd          Vi får kolla på tillsammans
 - kanon         Tim -> klar -> Ej färdigmappad textur
 - chainchomp
 - Rullande kulor
 - Gombas
-- Skylt         Tim -> klar
+- Skylt         Tim -> klar 1 -> Påbörjat mindre skylt med pil
 - Trä pelare    Tim -> Klar
 - Pengar
 - Blommor
-- Staket
+- Staket        Tim -> Påbörjat, en keff model klar, får nog göra en till
 - Gallert
 - lådor / Block Tim -> Klar        	
 
   WORLD         Patrik 
-- stenar        Patrik 
-- bro           Patrik 
-- platformar    Patrik 
-- ön            Patrik 
+- stenar        Patrik -> Ej klart
+- bro           Patrik -> Tim
+- platformar    Patrik -> Ej klart
+- ön            Patrik -> Ej klart
