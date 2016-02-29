@@ -1,20 +1,20 @@
-# Modellering_MAH
+﻿# Modellering_MAH
 School project
 
 Objekt
-- Bob omb       Tim
+- Bob omb       Tim -> påbörjad
 - träd          Tim
-- kanon
+- kanon         Tim -> klar -> Ej färdigmappad textur
 - chainchomp
 - Rullande kulor
 - Gombas
-- Skylt         Tim
-- Trä pelare
+- Skylt         Tim -> klar
+- Trä pelare    Tim -> Klar
 - Pengar
 - Blommor
 - Staket
 - Gallert
-- lådor
+- lådor / Block Tim -> Klar        	
 
   WORLD         Patrik 
 - stenar        Patrik 
