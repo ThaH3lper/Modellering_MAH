@@ -24,6 +24,6 @@ Objekt
 
 
   FIENDER
-- Goombah	Simon
+- Goombah	Simon -> Klar
 - Bob-Omb	Tim -> påbörjad
-- Chain-chomp   Simon -> Behövs texturer
+- Chain-chomp   Simon -> Klar
