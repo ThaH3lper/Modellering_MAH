@@ -18,6 +18,6 @@ Objekt
 
   WORLD         Patrik 
 - stenar        Patrik -> Ej klart
-- bro           Patrik -> Tim
+- bro           Patrik -> Tim -> Klart, en liten och en stor, samt "hängbron" till ovanpå pelaren(samma som andra broar)
 - platformar    Patrik -> Ej klart
 - ön            Patrik -> Ej klart
