@@ -12,7 +12,7 @@ Objekt
 - Staket        Tim -> Påbörjat, en keff model klar, får nog göra en till
 - Gallert
 - lådor / Block Tim -> Klar 
-- Markknapp     
+- Markknapp     Tim -> Klar
 - Prepare Cannon Button Tim -> Klar  	
 
   WORLD         Patrik 
