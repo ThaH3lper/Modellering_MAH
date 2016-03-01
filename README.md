@@ -2,15 +2,12 @@
 School project
 
 Objekt
-- Bob omb       Tim -> påbörjad
 - träd          Vi får kolla på tillsammans
 - kanon         Tim -> klar -> Ej färdigmappad textur
-- chainchomp	Simon -> Behövs texturer
 - Rullande kulor Simon -> Behövs nog ingen texture så klar
-- Gombas
-- Skylt         Tim -> klar 1 -> Påbörjat mindre skylt med pil
+- Skylt         Tim -> klar 1 -> Påbörjat mindre skylt med pil -> klar 2
 - Trä pelare    Tim -> Klar
-- Pengar		Simon -> keff
+- Pengar	Simon -> keff(?)
 - Blommor
 - Staket        Tim -> Påbörjat, en keff model klar, får nog göra en till
 - Gallert
@@ -19,6 +16,12 @@ Objekt
   WORLD         Patrik 
 - stenar        Patrik -> Ej klart
 - bro           Patrik -> Tim -> Klart, en liten och en stor, samt "hängbron" till ovanpå pelaren(samma som andra broar)
-- platformar    Patrik -> Ej klart
+- platformar    Tim -> 
 - ön            Patrik -> Ej klart
 - Pelare till bro Tim -> Klart
+
+
+  FIENDER
+- Goombah	Simon
+- Bob-Omb	Tim -> påbörjad
+- Chain-chomp   Simon -> Behövs texturer
