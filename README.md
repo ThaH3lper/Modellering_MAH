@@ -11,7 +11,8 @@ Objekt
 - Blommor
 - Staket        Tim -> Påbörjat, en keff model klar, får nog göra en till
 - Gallert
-- lådor / Block Tim -> Klar        	
+- lådor / Block Tim -> Klar 
+- Markknapp       	
 
   WORLD         Patrik 
 - stenar        Patrik -> Ej klart
