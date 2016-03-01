@@ -21,3 +21,4 @@ Objekt
 - bro           Patrik -> Tim -> Klart, en liten och en stor, samt "hängbron" till ovanpå pelaren(samma som andra broar)
 - platformar    Patrik -> Ej klart
 - ön            Patrik -> Ej klart
+- Pelare till bro Tim -> Klart
