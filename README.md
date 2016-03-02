@@ -27,3 +27,9 @@ Objekt
 - Goombah	Simon -> Klar, ej animerad
 - Bob-Omb	Tim -> Simon -> Klar, animerad
 - Chain-chomp   Simon -> Klar och animerad
+
+
+Checklista:
+Röd stillastående bobomb.
+! block
+Goomba animera
