@@ -3,12 +3,12 @@ School project
 
 Objekt
 - träd          Simon -> Klart
-- kanon         Tim -> klart
+- kanon         Tim -> klart -> texturlagg
 - Rullande kulor Simon -> Klart
 - Skylt         Tim -> klart 1 x2
 - Trä pelare    Tim -> Klart
-- Pengar	Simon -> Klart
-- Blommor	Tim -> Klart
+- Pengar	Simon -> Klart -> fixa framerate
+- Blommor	Tim -> Klart 
 - Staket        Tim -> Klart -> Gjort två bitar till -> Klart
 - Gallert	Patrik -> klart
 - lådor / Block Tim -> Klart
@@ -27,5 +27,5 @@ Objekt
 
   FIENDER
 - Goombah	Simon -> Klart, ej animerad
-- Bob-Omb	Tim -> Simon -> Klart, animerad
-- Chain-chomp   Simon -> Klart och animerad
+- Bob-Omb	Tim -> Simon -> Klart, animerad -> framerate?
+- Chain-chomp   Simon -> Klart och animerad -> framerate?
