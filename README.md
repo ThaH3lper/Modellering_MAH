@@ -2,23 +2,23 @@
 School project
 
 Objekt
-- träd          Simon -> Klar
-- kanon         Tim -> klar
-- Rullande kulor Simon -> Klar
-- Skylt         Tim -> klar 1 x2
-- Trä pelare    Tim -> Klar
-- Pengar	Simon -> Klar
-- Blommor	Tim -> Klar
-- Staket        Tim -> Klar
-- Gallert	Patrik -> klar
-- lådor / Block Tim -> Klar 
-- Markknapp     Tim -> Klar
-- Prepare Cannon Button Tim -> Klar  
-- ?-Block	Tim -> klar
-- !-Block	Tim -> Klar	
+- träd          Simon -> Klart
+- kanon         Tim -> klart
+- Rullande kulor Simon -> Klart
+- Skylt         Tim -> klart 1 x2
+- Trä pelare    Tim -> Klart
+- Pengar	Simon -> Klart
+- Blommor	Tim -> Klart
+- Staket        Tim -> Klart -> Gjort två bitar till -> Klart
+- Gallert	Patrik -> klart
+- lådor / Block Tim -> Klart
+- Markknapp     Tim -> Klart
+- Prepare Cannon Button Tim -> Klart  
+- ?-Block	Tim -> klart
+- !-Block	Tim -> Klart	
 
   WORLD         Patrik 
-- stenar        Patrik -> klar
+- stenar        Patrik -> klart
 - bro           Patrik -> Tim -> Klart x2
 - platformar    Tim/Simon -> Klart, animerat
 - ön            Patrik -> klart
@@ -26,12 +26,6 @@ Objekt
 - Trappor	Tim -> Klart
 
   FIENDER
-- Goombah	Simon -> Klar, ej animerad
-- Bob-Omb	Tim -> Simon -> Klar, animerad
-- Chain-chomp   Simon -> Klar och animerad
-
-
-Checklista:
-Röd stillastående bobomb.
-! block
-Goomba animera
+- Goombah	Simon -> Klart, ej animerad
+- Bob-Omb	Tim -> Simon -> Klart, animerad
+- Chain-chomp   Simon -> Klart och animerad
