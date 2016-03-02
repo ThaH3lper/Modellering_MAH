@@ -3,7 +3,7 @@ School project
 
 Objekt
 --- träd          Vi får kolla på tillsammans
-- kanon         Tim -> klar -> Ej färdigmappad textur
+- kanon         Tim -> klar
 - Rullande kulor Simon -> Behövs nog ingen texture så klar
 - Skylt         Tim -> klar 1 -> Påbörjat mindre skylt med pil -> klar 2
 - Trä pelare    Tim -> Klar
