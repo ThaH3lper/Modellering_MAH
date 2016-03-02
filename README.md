@@ -8,7 +8,7 @@ Objekt
 - Skylt         Tim -> klar 1 x2
 - Trä pelare    Tim -> Klar
 - Pengar	Simon -> Klar
---- Blommor	wtf
+--- Blommor	Tim -> Klar
 - Staket        Tim -> Klar
 --- Gallert	Patrik -> ej klar
 - lådor / Block Tim -> Klar 
