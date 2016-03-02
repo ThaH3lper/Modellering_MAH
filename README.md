@@ -13,7 +13,9 @@ Objekt
 - Gallert	Patrik -> klar
 - lådor / Block Tim -> Klar 
 - Markknapp     Tim -> Klar
-- Prepare Cannon Button Tim -> Klar  	
+- Prepare Cannon Button Tim -> Klar  
+- ?-Block	Tim -> klar
+- !-Block	Tim -> Klar	
 
   WORLD         Patrik 
 - stenar        Patrik -> klar
