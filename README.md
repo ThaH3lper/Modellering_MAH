@@ -8,9 +8,9 @@ Objekt
 - Skylt         Tim -> klar 1 x2
 - Trä pelare    Tim -> Klar
 - Pengar	Simon -> Klar
---- Blommor	Tim -> Klar
+- Blommor	Tim -> Klar
 - Staket        Tim -> Klar
---- Gallert	Patrik -> ej klar
+- Gallert	Patrik -> klar
 - lådor / Block Tim -> Klar 
 - Markknapp     Tim -> Klar
 - Prepare Cannon Button Tim -> Klar  	
@@ -19,11 +19,11 @@ Objekt
 - stenar        Patrik -> klar
 - bro           Patrik -> Tim -> Klart x2
 - platformar    Tim/Simon -> Klart, animerat
---- ön            Patrik -> Ej klart
+- ön            Patrik -> klart
 - Pelare till bro Tim -> Klart
-
+- Trappor	Tim -> Klart
 
   FIENDER
 - Goombah	Simon -> Klar, ej animerad
-- Bob-Omb	Tim -> Simon -> Klar, ej animerad
+- Bob-Omb	Tim -> Simon -> Klar, animerad
 - Chain-chomp   Simon -> Klar och animerad
