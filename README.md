@@ -25,5 +25,5 @@ Objekt
 
   FIENDER
 - Goombah	Simon -> Klar
-- Bob-Omb	Tim -> påbörjad
+- Bob-Omb	Tim -> Simon -> Klar
 - Chain-chomp   Simon -> Klar
