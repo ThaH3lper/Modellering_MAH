@@ -1,0 +1,6 @@
+Att göra vecka 10:
+- Skriva klart rapporten. I rapportmapp finns readme med vad som skall göras.
+- Implementera Skybox och ljuskällor
+- Förbereda presentation
+- Skapa videoanimation
+- (Om tid finns, animera rullande kulor ned för berg)
