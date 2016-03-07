@@ -27,7 +27,12 @@ TODO
 
 COVER PAGE - Klar
 Introduction - Klar
-Implementation - Behövs bilder
-Resultat - Inte klar
-Future work - Inte klar - Optional, skita i?
+Implementation - klar
+Resultat - klar
+[s]Future work - Inte klar - Optional, skita i?[/s]
 Referenser - Klar
+
+Proofread: 
+Tim - Klar
+Simon - 
+Patrik - 
