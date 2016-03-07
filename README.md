@@ -1,6 +1,6 @@
-﻿# Modellering_MAH
+﻿# Bob-omb Battlefield
 
-Bob-omb Battlefield made in Maya at Malmö Högskola.
+Bob-omb Battlefield made in Maya (2015) at Malmö Högskola.
 
 By:
 Patrik,
