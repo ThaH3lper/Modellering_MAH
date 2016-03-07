@@ -22,3 +22,12 @@ What could have been done better?
 • References. No exhaustive reference list is required, but include the
 main sources to your work, such as the course book, online resources
 for textures, tutorials etc.
+
+TODO
+
+COVER PAGE - Klar
+Introduction - Klar
+Implementation - Behövs bilder
+Resultat - Inte klar
+Future work - Inte klar - Optional, skita i?
+Referenser - Klar

@@ -26,6 +26,6 @@ Objekt
 - Trappor	Tim -> Klart
 
   FIENDER
-- Goombah	Simon -> Klart, ej animerad
-- Bob-Omb	Tim -> Simon -> Klart, animerad -> framerate?
-- Chain-chomp   Simon -> Klart och animerad -> framerate?
+- Goombah	Simon -> Klart, animerad
+- Bob-Omb	Tim -> Simon -> Klart, animerad
+- Chain-chomp   Simon -> Klart och animerad
